@@ -1,0 +1,10 @@
+banka müşteri hesapları kalıtım hiyerarşi
+
+müşteriler->
+tüm hesaplarına para yatırır ve çeker
+
+
+spesifik hesap türleri
+- vadeli: ellerinde tutulan paradan faiz kazanır
+- vadesiz: faiz kazanmaz ve işlem ücreti alınmaz
+
